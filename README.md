@@ -1,25 +1,4 @@
 # Virtualni-Lab_pfSense_Ubuntu_Windows
 Simulace firemní sítě s implementací open-source pfSense firewallu.
 
-
-                     INTERNET
-                        |
-                   (NAT - VirtualBox)
-                        |
-                ┌─────────────────┐
-                │     pfSense     │
-                │  WAN: DHCP      │
-                │  LAN: 192.168.1.1
-                └───────┬─────────┘
-                        |
-              ──────────┴──────────
-              Internal Network (LAN)
-                        |
-        ┌───────────────┼────────────────┐
-        |               |                |
-┌────────────┐   ┌────────────┐   ┌──────────────┐
-│ Ubuntu SRV │   │ Ubuntu SRV │   │ Windows 10   │
-│ Server 1   │   │ Server 2   │   │ Workstation  │
-│ DHCP IP    │   │ DHCP IP    │   │ DHCP IP      │
-│ SSH        │   │ Services   │   │ Wireshark    │
-└────────────┘   └────────────┘   └──────────────┘
+<img width="472" height="576" alt="shape_1PU4gb_LPHZZuOmYUeaQX at 26-01-07 16 38 53" src="https://github.com/user-attachments/assets/9a65d56f-1835-4b95-a339-87b445df6c26" />
