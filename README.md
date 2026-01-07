@@ -4,7 +4,7 @@ Simulace firemní sítě s implementací open-source pfSense firewallu.
 
                      INTERNET
                         |
-                 (NAT - VirtualBox)
+                   (NAT - VirtualBox)
                         |
                 ┌─────────────────┐
                 │     pfSense     │
