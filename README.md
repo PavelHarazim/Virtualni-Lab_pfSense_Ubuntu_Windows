@@ -1,7 +1,7 @@
 # Virtualní Lab - pfSense + Ubuntu + Windows
 Simulace firemní sítě s implementací open-source pfSense firewallu. Tento lab simuluje malou firemní síť pro účely učení a praxe v networkingu a cybersecurity.
 
-<img width="472" height="576" alt="shape_1PU4gb_LPHZZuOmYUeaQX at 26-01-07 16 38 53" src="https://github.com/user-attachments/assets/9a65d56f-1835-4b95-a339-87b445df6c26" />
+<img width="1479" height="2091" alt="Navrh labu1 drawio" src="https://github.com/user-attachments/assets/60da279d-95cd-4787-986a-6cb26acaf71d" />
 
 # pfSense Firewall VM
 
