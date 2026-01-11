@@ -15,3 +15,5 @@ Simulace firemní sítě s implementací open-source pfSense firewallu. Tento la
 - Připojena do LAN za pfSense firewallem
 - Testovací klient pro firewall rules
 - Slouží pro analýzu provozu (Wireshark) a testování bezpečnostních politik
+
+<img width="1598" height="864" alt="obrazek" src="https://github.com/user-attachments/assets/9013e273-90eb-415e-bf7b-e748b7db0354" />
